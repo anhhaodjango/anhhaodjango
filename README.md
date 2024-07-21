@@ -34,6 +34,7 @@ Technologies: Python, Django, React
 📫 Contact
 
 Email: lvietanhhao@gmail.com
+
 ** Vietcombank ** 0261003489939
 
 💬 Quote
